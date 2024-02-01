@@ -1,0 +1,16 @@
+E:\CalculadoraSalário\bin\Debug\net8.0-windows\CalculadoraSalário.exe
+E:\CalculadoraSalário\bin\Debug\net8.0-windows\CalculadoraSalário.deps.json
+E:\CalculadoraSalário\bin\Debug\net8.0-windows\CalculadoraSalário.runtimeconfig.json
+E:\CalculadoraSalário\bin\Debug\net8.0-windows\CalculadoraSalário.dll
+E:\CalculadoraSalário\bin\Debug\net8.0-windows\CalculadoraSalário.pdb
+E:\CalculadoraSalário\obj\Debug\net8.0-windows\CalculadoraSalário.Form1.resources
+E:\CalculadoraSalário\obj\Debug\net8.0-windows\CalculadoraSalário.csproj.GenerateResource.cache
+E:\CalculadoraSalário\obj\Debug\net8.0-windows\CalculadoraSalário.GeneratedMSBuildEditorConfig.editorconfig
+E:\CalculadoraSalário\obj\Debug\net8.0-windows\CalculadoraSalário.AssemblyInfoInputs.cache
+E:\CalculadoraSalário\obj\Debug\net8.0-windows\CalculadoraSalário.AssemblyInfo.cs
+E:\CalculadoraSalário\obj\Debug\net8.0-windows\CalculadoraSalário.csproj.CoreCompileInputs.cache
+E:\CalculadoraSalário\obj\Debug\net8.0-windows\CalculadoraSalário.dll
+E:\CalculadoraSalário\obj\Debug\net8.0-windows\refint\CalculadoraSalário.dll
+E:\CalculadoraSalário\obj\Debug\net8.0-windows\CalculadoraSalário.pdb
+E:\CalculadoraSalário\obj\Debug\net8.0-windows\CalculadoraSalário.genruntimeconfig.cache
+E:\CalculadoraSalário\obj\Debug\net8.0-windows\ref\CalculadoraSalário.dll
