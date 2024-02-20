@@ -10,7 +10,7 @@ O projeto foi criado com o objetivo de facilitar a organização financeira pess
 
 Certifique-se de ter o seguinte ambiente configurado:
 
-- [.NET Core SDK](https://dotnet.microsoft.com/download) instalado
+- [.NET Core SDK](https://dotnet.microsoft.com/download) instalado.
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/) ou outro ambiente de desenvolvimento C#
 
 ## Como Usar
@@ -25,6 +25,4 @@ Certifique-se de ter o seguinte ambiente configurado:
 
 O código utiliza o Windows Forms para criar a interface gráfica da calculadora. O método `CalcularButton_Click` é acionado quando o botão de calcular é pressionado. O código converte os valores das `MaskedTextBox` para números, realiza os cálculos e exibe o resultado na `ResultadoTextBox`.
 
-Contribuição
-Contribuições são bem-vindas! Se você deseja melhorar ou adicionar recursos à calculadora, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
